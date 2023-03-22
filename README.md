@@ -32,7 +32,7 @@ docker buildx build --platform linux/amd64 -t heartattack .
 docker run -it -p 7860:7860 --name HeartAttack heartattack
 ```
 
-### 4. Visit http://localhost:7860[http://localhost:7860]
+### 4. Visit [http://localhost:7860](http://localhost:7860)
 
 ---
 
